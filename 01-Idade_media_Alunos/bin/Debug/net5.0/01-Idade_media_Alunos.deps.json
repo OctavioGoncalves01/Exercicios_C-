@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "01-Idade_media_Alunos/1.0.0": {
+        "runtime": {
+          "01-Idade_media_Alunos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01-Idade_media_Alunos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

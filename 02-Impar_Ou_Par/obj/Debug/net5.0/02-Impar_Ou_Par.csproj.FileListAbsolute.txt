@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\02-Impar_Ou_Par.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\02-Impar_Ou_Par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\02-Impar_Ou_Par.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\02-Impar_Ou_Par.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\02-Impar_Ou_Par.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\02-Impar_Ou_Par.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\ref\02-Impar_Ou_Par.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\02-Impar_Ou_Par.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\bin\Debug\net5.0\02-Impar_Ou_Par.exe
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\bin\Debug\net5.0\02-Impar_Ou_Par.deps.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\bin\Debug\net5.0\02-Impar_Ou_Par.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\bin\Debug\net5.0\02-Impar_Ou_Par.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\bin\Debug\net5.0\02-Impar_Ou_Par.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\bin\Debug\net5.0\ref\02-Impar_Ou_Par.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\bin\Debug\net5.0\02-Impar_Ou_Par.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\02-Impar_Ou_Par\obj\Debug\net5.0\02-Impar_Ou_Par.genruntimeconfig.cache

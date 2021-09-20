@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\bin\Debug\net5.0\05-AlunoAlto.exe
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\bin\Debug\net5.0\05-AlunoAlto.deps.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\bin\Debug\net5.0\05-AlunoAlto.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\bin\Debug\net5.0\05-AlunoAlto.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\bin\Debug\net5.0\05-AlunoAlto.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\bin\Debug\net5.0\ref\05-AlunoAlto.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\bin\Debug\net5.0\05-AlunoAlto.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\05-AlunoAlto.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\05-AlunoAlto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\05-AlunoAlto.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\05-AlunoAlto.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\05-AlunoAlto.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\05-AlunoAlto.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\ref\05-AlunoAlto.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\05-AlunoAlto.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\05-AlunoAlto\obj\Debug\net5.0\05-AlunoAlto.genruntimeconfig.cache

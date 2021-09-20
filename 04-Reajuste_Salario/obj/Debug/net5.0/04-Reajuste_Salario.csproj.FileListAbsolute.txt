@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\bin\Debug\net5.0\04-Reajuste_Salario.exe
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\bin\Debug\net5.0\04-Reajuste_Salario.deps.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\bin\Debug\net5.0\04-Reajuste_Salario.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\bin\Debug\net5.0\04-Reajuste_Salario.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\bin\Debug\net5.0\04-Reajuste_Salario.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\bin\Debug\net5.0\ref\04-Reajuste_Salario.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\bin\Debug\net5.0\04-Reajuste_Salario.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\04-Reajuste_Salario.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\04-Reajuste_Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\04-Reajuste_Salario.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\04-Reajuste_Salario.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\04-Reajuste_Salario.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\04-Reajuste_Salario.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\ref\04-Reajuste_Salario.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\04-Reajuste_Salario.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\04-Reajuste_Salario\obj\Debug\net5.0\04-Reajuste_Salario.genruntimeconfig.cache

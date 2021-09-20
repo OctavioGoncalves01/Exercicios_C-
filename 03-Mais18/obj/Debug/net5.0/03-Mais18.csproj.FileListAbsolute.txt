@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\bin\Debug\net5.0\03-Mais18.exe
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\bin\Debug\net5.0\03-Mais18.deps.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\bin\Debug\net5.0\03-Mais18.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\bin\Debug\net5.0\03-Mais18.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\bin\Debug\net5.0\03-Mais18.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\bin\Debug\net5.0\ref\03-Mais18.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\bin\Debug\net5.0\03-Mais18.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\03-Mais18.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\03-Mais18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\03-Mais18.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\03-Mais18.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\03-Mais18.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\03-Mais18.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\ref\03-Mais18.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\03-Mais18.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\03-Mais18\obj\Debug\net5.0\03-Mais18.genruntimeconfig.cache

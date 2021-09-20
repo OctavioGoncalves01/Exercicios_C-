@@ -1,0 +1,16 @@
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\bin\Debug\net5.0\01-Idade_media_Alunos.exe
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\bin\Debug\net5.0\01-Idade_media_Alunos.deps.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\bin\Debug\net5.0\01-Idade_media_Alunos.runtimeconfig.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\bin\Debug\net5.0\01-Idade_media_Alunos.runtimeconfig.dev.json
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\bin\Debug\net5.0\01-Idade_media_Alunos.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\bin\Debug\net5.0\ref\01-Idade_media_Alunos.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\bin\Debug\net5.0\01-Idade_media_Alunos.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\01-Idade_media_Alunos.csproj.AssemblyReference.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\01-Idade_media_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\01-Idade_media_Alunos.AssemblyInfoInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\01-Idade_media_Alunos.AssemblyInfo.cs
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\01-Idade_media_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\01-Idade_media_Alunos.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\ref\01-Idade_media_Alunos.dll
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\01-Idade_media_Alunos.pdb
+C:\Users\octav_jojrcpm\Exe C#\EXERCÍCIOS EM C# – CAFÉ COM LEITE\01-Idade_media_Alunos\obj\Debug\net5.0\01-Idade_media_Alunos.genruntimeconfig.cache
